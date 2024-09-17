@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070978870200",
+    "project_id": "push-notificationsrn",
+    "storage_bucket": "push-notificationsrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070978870200:android:c23bd8687329f6af4a7d4d",
+        "android_client_info": {
+          "package_name": "com.ichina.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgXq_etC3eBrfZN-p3ZUNuAs-n0GmGQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

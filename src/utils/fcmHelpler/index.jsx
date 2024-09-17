@@ -132,7 +132,7 @@ export function registerListenerWithFCM() {
 
 //method was called to display notification
 async function onDisplayNotification(title, body, data) {
-  console.log('onDisplayNotification Adnan: ', JSON.stringify(data));
+  console.log('onDisplayNotification : ', JSON.stringify(data));
 
   // Request permissions (required for iOS)
   await notifee.requestPermission();

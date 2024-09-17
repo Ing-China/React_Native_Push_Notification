@@ -1,4 +1,4 @@
-package com.push_notifications
+package com.ichina.pushnotifications
 
 import android.app.Application
 import com.facebook.react.PackageList

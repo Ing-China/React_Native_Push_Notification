@@ -1,4 +1,4 @@
-package com.push_notifications
+package com.ichina.pushnotifications
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
